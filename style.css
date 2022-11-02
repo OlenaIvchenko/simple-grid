@@ -66,21 +66,6 @@ p {
   margin-bottom: 21px;
   line-height: 21px;
 }
-/* 
-button {
-    color: #37cdab;
-    background-color: transparent;
-    width: 130px;
-    height: 36px;
-    font-weight: 600;
-    font-size: 14px;
-    border: none;
-    box-shadow: 0px 0px 0px 3px transparent;
-    outline: none;
-    transition-property: background-color box-shadow;
-    transition-timing-function: ease;
-    transition-duration: 0.2s;
-} */
 
  a {
   display: inline-flex;
@@ -94,8 +79,8 @@ button {
   background-color: transparent;
   border: 2px solid transparent;
   text-decoration: none;
-  border: none;
-  transition-property: background-color box-shadow;
+  /* border: none; */
+  transition-property: background-color, box-shadow;
   transition-timing-function: ease;
   transition-duration: 0.2s;
 }   

@@ -11,4 +11,3 @@ homework for lesson 13
 **Гілка для виконання ДЗ**: `develop`
 
 **Github ментора**: `a1exalexander`
-git add README.md
